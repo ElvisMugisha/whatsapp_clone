@@ -1,6 +1,6 @@
 # whatsapp_clone
 
-A completely Responsive Whatsapp Clone App- works on Android and iOS
+A completely Whatsapp Clone App- that works on Android and iOS
 
 ## Getting Started
 
