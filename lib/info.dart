@@ -3,15 +3,14 @@ const info = [
     'name': 'Elvis',
     'message': 'Hey, how are you doing?',
     'time': '2:25 pm',
-    'profilePic':
-        'https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg',
+    'profilePic': 'assets/images/default-user.png',
   },
   {
     'name': 'Mugisha',
     'message': 'Hey, how are you guys?',
     'time': '1:25 pm',
     'profilePic':
-        'https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg',
+        'https://www.socialketchup.in/wp-content/uploads/2020/05/fi-vill-JOHN-DOE.jpg',
   },
   {
     'name': 'Bello',
@@ -25,7 +24,7 @@ const info = [
     'message': 'Yoo mababa, u there?',
     'time': '08:00 pm',
     'profilePic':
-        'https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg',
+        'https://pbs.twimg.com/profile_images/1419974913260232732/Cy_CUavB.jpg',
   },
   {
     'name': 'Ruti',

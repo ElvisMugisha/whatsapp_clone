@@ -50,9 +50,6 @@ class MyMessageCard extends StatelessWidget {
                 right: 10,
                 child: Row(
                   children: [
-                    const SizedBox(
-                      height: 10,
-                    ),
                     Text(
                       date,
                       style: const TextStyle(

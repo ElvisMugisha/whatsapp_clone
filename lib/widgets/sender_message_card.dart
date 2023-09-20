@@ -45,6 +45,9 @@ class SenderMessageCard extends StatelessWidget {
                   ),
                 ),
               ),
+              const SizedBox(
+                height: 15,
+              ),
               Positioned(
                 bottom: 2,
                 right: 10,
